@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;DeviceDetailFragment.java&apos; to &apos;com.example.android.wifidirect.DeviceDetailFragment.java&apos;&#x0A;- Original project: &apos;com.example.android.wifidirect.WiFiDirectActivity&apos;&#x0A;- Destination element: &apos;com.example.android.wifidirect.DeviceDetailFragment.java&apos;&#x0A;- Original element: &apos;com.example.android.wifidirect.DeviceDetailFragment.java&apos;" description="Copy compilation unit" destination="/src&lt;com.example.android.wifidirect{DeviceDetailFragment.java" element1="/src&lt;com.example.android.wifidirect{DeviceDetailFragment.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1355762387975" units="1" version="1.0"/>
+</session>

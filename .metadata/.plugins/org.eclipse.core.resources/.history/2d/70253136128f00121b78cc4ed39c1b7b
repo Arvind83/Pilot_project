@@ -1,0 +1,21 @@
+package com.example.android.location;
+
+public class MapView extends Activity {
+
+	  @Override
+	  public void onCreate(Bundle savedInstanceState) {
+	    super.onCreate(savedInstanceState);
+	    setContentView(R.layout.order);
+
+	    Button orderButton = (Button) findViewById(R.id.end);
+
+	    orderButton.setOnClickListener(new View.OnClickListener() {
+
+	      @Override
+	      public void onClick(View view) {
+	        finish();
+	      }
+
+	    });
+	  }
+	}}

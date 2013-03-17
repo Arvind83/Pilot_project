@@ -1,0 +1,26 @@
+package com.example.android.location;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+
+public class MapView extends Activity {
+
+	  @Override
+	  public void onCreate(Bundle savedInstanceState) {
+	    super.onCreate(savedInstanceState);
+	    setContentView(R.layout.map);
+
+	    //Button orderButton = (Button) findViewById(R.id.HelloWorld);
+
+	    //orderButton.setOnClickListener(new View.OnClickListener() {
+
+	  //    @Override
+	      //public void onClick(View view) {
+	       // finish();
+	      //}
+
+	    //});
+	  }
+	}
